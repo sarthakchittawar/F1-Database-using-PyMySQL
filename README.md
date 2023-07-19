@@ -1,4 +1,4 @@
-# F1 Database using PyMySQL
+# Motorsports Database using PyMySQL
 
 ## Notes to the evaluator
 
