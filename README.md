@@ -1,3 +1,7 @@
+# F1 Database using PyMySQL
+
+## Notes to the evaluator
+
 1. A Max of 5 drivers' results are stored in the 2 results tables for Formula1, and 3 for MotoGP
 2. There are 22 drivers in f1 database and 6 in motogp
 3. Drivers' Championship & Construictors' Championship contains the current standings of the current season of whatever motorsport.
@@ -14,6 +18,7 @@
 
 * NOTE: Since the video took up too much space, we could not submit it in an mp4 format, hence the link to the video: https://iiitaphyd-my.sharepoint.com/:v:/g/personal/kapil_rajesh_students_iiit_ac_in/EfDd56D8HE1Gg7s7H3kMRl4BuivS94ENfMJhyPhA-c8i_g?e=CSPQQv
 
+## Queries implemented
 We have implemented a total of 6 queries:
 1. Insert data (RESULTS/DRIVER HoF/CONSTRUCTOR HoF) -
 * This can only be done by the administrator (we have authenticated this feature). We have another menu which asks the admin on which table to add data to. We have used commits to make the entered data permanent.
@@ -39,4 +44,3 @@ We have implemented a total of 6 queries:
 6. View results -
 * Gives the results of the races you want to see.
 * Satisfies the selection functional requirement
-"# F1-Database-using-PyMySQL" 
